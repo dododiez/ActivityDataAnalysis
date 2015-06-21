@@ -191,14 +191,16 @@ fBodyAccMag-mean()
 fBodyAccMag-std()
 
 * Mean and Standard Deviation Measurements for the magnitude of Body Acceleration Jerk
-fBodyBodyAccJerkMag-mean()
+
+fBodyBodyAccJerkMag-mean(),
 fBodyBodyAccJerkMag-std()
 
 * Mean and Standard Deviation Measurements for the magnitude of Body Gyroscope
-fBodyBodyGyroMag-mean()
+
+fBodyBodyGyroMag-mean(),
 fBodyBodyGyroMag-std()
 
 * Mean and Standard Deviation Measurements for the magnitude of Body Gyroscope Jerk
 
-fBodyBodyGyroJerkMag-mean()
+fBodyBodyGyroJerkMag-mean(),
 fBodyBodyGyroJerkMag-std())
