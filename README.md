@@ -11,4 +11,5 @@ Requirements for running run_alalysis.R
 5. An output file will be generated in the working directory "new_data_set.txt" (represets a tidy data set)
 
 Note 1: Progress text will be output while the analysis is in progress.
+
 Note 2: While processing the dataset a directory contining some of the source data will be created.
