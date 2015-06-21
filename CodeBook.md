@@ -202,5 +202,5 @@ fBodyBodyGyroMag-std()
 
 * Mean and Standard Deviation Measurements for the magnitude of Body Gyroscope Jerk
 
-fBodyBodyGyroJerkMag-mean(),
-fBodyBodyGyroJerkMag-std())
+**fBodyBodyGyroJerkMag-mean(),
+**fBodyBodyGyroJerkMag-std())
